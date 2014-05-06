@@ -1,5 +1,5 @@
 # Use abs path, otherwise daily builds automagic won't work
-%env %import ${SABAYON_MOLECULE_HOME:-/sabayon}/molecules/forensicxfce.common
+%env %import ${SABAYON_MOLECULE_HOME:-/sabayon}/molecules/XFCE_Zoro-Defender.common
 
 # Release Version
 %env release_version: ${SABAYON_RELEASE:-11}
